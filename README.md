@@ -8,6 +8,11 @@ the 7400 chip
 clock is made up of ~400 NAND gates
 
 made up of 2 main components
-1. 31 divide-by-two blocks
-2. 4 BCD to 7-Segment Display Decoders
+- 31 divide-by-two blocks  
+- 4 BCD to 7-Segment Display Decoders
+<img src="block-diag.png">
+
+starting PCB layout
+<img src="preliminary-PCB.png">
+
 
