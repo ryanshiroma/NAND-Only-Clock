@@ -5,10 +5,11 @@ I plan to create a clock using only NAND gates(negated and gate), a type of logi
 
 The original plan for this clock was to build a clock using an even more basic building block of circuitry, the transistor. But given the massive number of of NAND gates needed to accomplish this task, the actual assembly of the circuit would be incredibly time consuming. *Assuming 400 NAND gates, a transistor clock would approach 1,000 transistors and 1,500 resistors. Plopping in and soldering 2,500 components onto a circuit board is a bit too much for me*
 
-To Do:
-[ ] oscillator circuit design
-[ ] button debouncing
-[ ] or gate block
+To Do:  
+
+[ ] oscillator circuit design  
+[ ] button debouncing  
+[ ] or gate block  
 [ ] dimmer(autodimmer? with photoresistor)
 
 the 7400 chip
