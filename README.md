@@ -8,7 +8,7 @@ The original plan for this clock was to build a clock using an even more basic b
 To Do:  
 - [x] BCD to 7 segment design
 - [x] divide by two circuit
-- [ ] oscillator circuit design  
+- [x] oscillator circuit design  
 - [ ] button debouncing  
 - [ ] or gate block  
 - [ ] dimmer(autodimmer? with photoresistor) use PWM
