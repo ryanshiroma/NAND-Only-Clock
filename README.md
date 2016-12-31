@@ -12,7 +12,7 @@ To Do:
 - [ ] button debouncing  
 - [ ] or gate block  
 - [ ] dimmer(autodimmer? with photoresistor)
-- [ ] PWM circuit
+- [ ] PWM circuit http://forum.allaboutcircuits.com/threads/project-simple-pwm-circuit.9016/
 - [ ] power supply circuit
 - [ ] LED driver circuit
 
