@@ -11,7 +11,8 @@ To Do:
 - [x] oscillator circuit design  
 - [ ] button debouncing  
 - [ ] or gate block  
-- [ ] dimmer(autodimmer? with photoresistor) use PWM
+- [ ] dimmer(autodimmer? with photoresistor)
+- [ ] PWM circuit
 - [ ] power supply circuit
 - [ ] LED driver circuit
 
