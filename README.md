@@ -13,6 +13,7 @@ To Do:
 - [ ] or gate block  
 - [ ] dimmer(autodimmer? with photoresistor)
 - [ ] PWM circuit http://forum.allaboutcircuits.com/threads/project-simple-pwm-circuit.9016/
+http://electronics.stackexchange.com/questions/30737/transistors-and-pwm
 - [ ] power supply circuit
 - [ ] LED driver circuit
 
