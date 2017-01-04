@@ -1,7 +1,7 @@
 # Clock using only NAND Gates!
 *WORK IN PROGRESS*
 
-I got inspiration for this project from [Ahmed Mohamed](https://en.wikipedia.org/wiki/Ahmed_Mohamed_clock_incident) and his "bomb" clock.
+I got inspiration for this project from [Ahmed Mohamed](https://en.wikipedia.org/wiki/Ahmed_Mohamed_clock_incident) and his "bomb"-ass clock.
 
 The idea for this project is to create a clock using only 2-input NAND gates to learn about circuit minimimzation and PCB design. 
 Here I will explain how to design a clock from the transistor level all the way to PCB fabrication.
