@@ -3,14 +3,17 @@
 
 I got inspiration for this project from [Ahmed Mohamed](https://en.wikipedia.org/wiki/Ahmed_Mohamed_clock_incident) and his "bomb" clock.
 
-I'm working on creating a clock using only 2-input NAND gates(negated and gate), a type of logic gate. 
+The idea for this project is to create a clock using only 2-input NAND gates to learn about circuit minimimzation and PCB design. 
+Here I will explain how to design a clock from the transistor level all the way to PCB fabrication.
+
+
+NAND gates are [functionally complete](https://en.wikipedia.org/wiki/Functional_completeness) which means any logic equation using any combination of logical operators can be re-expressed using only NAND operators. *explain this later*
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logic-gate-nand-us.png" width=200>
 
-NAND gates(as well as NOR gates) are [functionally complete](https://en.wikipedia.org/wiki/Functional_completeness) which means any logic equation using any combination of logical operators can be re-expressed using only NAND operators. *explain this later*
+A clock display output(ex. "2:30PM") can be simplified into one of these logical equations which can then converted into a series of NAND gates.
 
-A clock display output can be broken down into truth tables which can then be expressed as a circuit using NAND gates.
+This circuit of NAND gates then gets turned into a circuit of NAND gate chips on a printed circuit board.
 
-The original plan for this clock was to build a clock using an even more basic building block of circuitry, the transistor. But given the massive number of of NAND gates needed to accomplish this task, the actual assembly of the circuit would be incredibly time consuming.
 To Do:  
 - [x] BCD to 7 segment design
 - [x] divide by two circuit
@@ -30,7 +33,7 @@ the 7400 chip
 
 clock is made up of ~400 NAND gates
 
-made up of 2 main components
+made up of 2 main components:
 - 31 divide-by-two blocks  
 - 4 BCD to 7-Segment Display Decoders
 <img src="block-diag.png">
@@ -40,4 +43,6 @@ starting PCB layout
 
 <img src="http://i.imgur.com/O4u64RL.png">
 
+number display:
+<img src="https://statics3.seeedstudio.com/images/product/7%20SegmentL.jpg">
 
