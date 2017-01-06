@@ -27,6 +27,9 @@ http://electronics.stackexchange.com/questions/30737/transistors-and-pwm
 - [ ] LED driver circuit
 - [ ] PCB design
 
+Parts List:
+74HC00
+
 the 7400 chip
 <img src="http://dangerousprototypes.com/blog/wp-content/media/2011/08/7400.jpg">
 
