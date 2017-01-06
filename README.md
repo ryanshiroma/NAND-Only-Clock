@@ -41,8 +41,12 @@ made up of 2 main components:
 - 4 BCD to 7-Segment Display Decoders
 <img src="block-diag.png">
 
-starting PCB layout
+first PCB layout (Dec 20 2016)
 <img src="preliminary-PCB.png">
+
+second PCB layout (Jan 4 2016)
+<img src= "http://i.imgur.com/Q3IQ6Lw.png">
+
 
 <img src="http://i.imgur.com/O4u64RL.png">
 
