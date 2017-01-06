@@ -16,7 +16,7 @@ This circuit of NAND gates then gets turned into a circuit of NAND gate chips on
 
 To Do:  
 - [x] BCD to 7 segment design
-- [x] divide by two circuit
+- [x] divide by two circuit (t flip flop)
 - [x] oscillator circuit design  (pierce oscillator) http://www.ti.com/lit/an/szza043/szza043.pdf
 - [x] button debouncing  http://www.ganssle.com/debouncing-pt2.htm
 - [ ] or gate block  
