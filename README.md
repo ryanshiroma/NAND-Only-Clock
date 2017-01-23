@@ -53,3 +53,5 @@ second PCB layout (Jan 4 2016)
 number display:
 <img src="https://statics3.seeedstudio.com/images/product/7%20SegmentL.jpg">
 
+Binary Coded Decimal to 7 Segment Display Driver
+<img src="digit3.png">
